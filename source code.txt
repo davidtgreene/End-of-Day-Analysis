@@ -1,0 +1,1 @@
+create table eoddata(ticker varchar(5), daylow number(5), dayhigh number(5), closeprice number(5), yearlow number(5), yearhigh number(5));
